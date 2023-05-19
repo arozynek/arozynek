@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ania</h1>
 <h3 align="center">A freelance frontend developer from Poland</h3>
-<img align="right" alt="Coding" width="250" src="https://img.freepik.com/free-vector/girl-working-from-her-laptop_75487-766.jpg?w=740&t=st=1684500959~exp=1684501559~hmac=02e20616edb72f913ec1e6034bb25c3b5734bba57c7913abf8fbd385c2692508)" alt="programmer" /> 
+ 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arozynek&label=Profile%20views&color=0e75b6&style=flat" alt="arozynek" /> </p>
