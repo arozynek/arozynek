@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arozynek&label=Profile%20views&color=0e75b6&style=flat" alt="arozynek" /> </p>
 
-- 🌱 I’m currently learning **node.js, express, MongoDB**
+- 🌱 I’m currently learning **MongoDB, C#**
 
 - 💬 Ask me about **JavaScript**
 
